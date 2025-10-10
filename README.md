@@ -74,9 +74,7 @@ Soy **Analista Programador** apasionado por la tecnología y el desarrollo de so
 
 ---
 
-## 📫 ¿Hablamos?
-
-Si querés colaborar en algún proyecto, tenés alguna pregunta o simplemente querés charlar sobre tecnología, no dudes en contactarme:
+## 📫 Contactos
 
 - 📧 Email: [Matiasaversa04@gmail.com](mailto:Matiasaversa04@gmail.com)
 - 📱 Teléfono: 2213540674
