@@ -81,11 +81,3 @@ Soy **Analista Programador** apasionado por la tecnología y el desarrollo de so
 - 🌐 GitHub: [@matiAversa](https://github.com/matiAversa)
 
 ---
-
-<div align="center">
-  
-### 💭 _"La mejor forma de predecir el futuro es crearlo"_
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=matiAversa.matiAversa)
-
-</div>
