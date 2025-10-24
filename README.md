@@ -73,11 +73,3 @@ Soy **Analista Programador** apasionado por la tecnología y el desarrollo de so
 - 🔍 Explorando nuevas tecnologías y mejores prácticas de desarrollo
 
 ---
-
-## 📫 Contactos
-
-- 📧 Email: [Matiasaversa04@gmail.com](mailto:Matiasaversa04@gmail.com)
-- 📱 Teléfono: 2213540674
-- 🌐 GitHub: [@matiAversa](https://github.com/matiAversa)
-
----
